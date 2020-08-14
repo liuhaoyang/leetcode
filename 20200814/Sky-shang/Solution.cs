@@ -2,7 +2,7 @@ public class Solution {
     public bool IsValid(string s)
         {
             if (s == "") return true;
-            if (s.Length%2! = 0) return false;
+            if (s.Length%2 != 0) return false;
             Stack stack = new Stack();
             for(int i = 0; i < s.Length; i++)
             {
