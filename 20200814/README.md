@@ -38,6 +38,7 @@ https://leetcode-cn.com/problems/valid-parentheses/
 
 ## 打卡
 - LEMON
+- Richeir
 - 麦田的香
 - CRAZYLIUXP
 - Zhuangkh
@@ -49,3 +50,4 @@ https://leetcode-cn.com/problems/valid-parentheses/
 - Sky-shang
 - Markxu
 - Ivysaur
+
