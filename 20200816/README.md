@@ -32,4 +32,12 @@ sr = 1, sc = 1, newColor = 2
 
 
 ## 打卡
+<<<<<<< HEAD
 - CRAZYLIUXP
+=======
+- CRAZYLIUXP
+- 明洋
+- BenLampson  
+- Richeir
+- Murph
+>>>>>>> lemon-book-master
