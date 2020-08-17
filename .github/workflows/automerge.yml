@@ -1,7 +1,7 @@
 name: automerge
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/1 * * * *"
   pull_request_review:
     types:
       - submitted
