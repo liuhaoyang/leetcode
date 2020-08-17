@@ -33,5 +33,11 @@ sr = 1, sc = 1, newColor = 2
 
 ## 打卡
 - CRAZYLIUXP
+- 明洋
+- BenLampson  
+- Richeir
 - Murph
 - wxj
+- Zhuangkh
+- Sky-shang
+- 麦田的香
