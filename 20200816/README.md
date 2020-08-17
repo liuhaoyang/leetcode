@@ -37,6 +37,7 @@ sr = 1, sc = 1, newColor = 2
 - BenLampson  
 - Richeir
 - Murph
+- Ivysaur
 - wxj
 - Zhuangkh
 - Sky-shang
