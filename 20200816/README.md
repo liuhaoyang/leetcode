@@ -38,3 +38,7 @@ sr = 1, sc = 1, newColor = 2
 - Richeir
 - Murph
 - Ivysaur
+- wxj
+- Zhuangkh
+- Sky-shang
+- 麦田的香
