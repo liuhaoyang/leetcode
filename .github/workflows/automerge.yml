@@ -26,6 +26,7 @@ jobs:
         with:
           args: "--trace"
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.ACTION }}"
+          MERGE_METHOD: "squash"
           MERGE_LABELS: ""
           MERGE_COMMIT_MESSAGE: "Auto Merge"
