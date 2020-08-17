@@ -42,3 +42,4 @@ https://leetcode-cn.com/problems/balanced-binary-tree/
 - Sky-shang
 - Murph
 - wxj
+- Richeir
