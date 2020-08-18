@@ -39,9 +39,6 @@ https://leetcode-cn.com/problems/balanced-binary-tree/
 - CrazyLiuxp
 - 明洋
 - Sky-shang
-<<<<<<< HEAD
-=======
 - Murph
 - wxj
 - Richeir
->>>>>>> lemon-book-master
