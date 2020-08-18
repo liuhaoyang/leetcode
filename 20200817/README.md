@@ -37,14 +37,5 @@ https://leetcode-cn.com/problems/balanced-binary-tree/
 返回 false 。
 ## 打卡
 - CrazyLiuxp
-<<<<<<< HEAD
-- Zhuangkh
 - 明洋
 - Sky-shang
-- Murph
-- wxj
-- Richeir
-=======
-- 明洋
-- Sky-shang
->>>>>>> f0ba3b9e365ef23a72b665c6c0c4beaf80720f89
