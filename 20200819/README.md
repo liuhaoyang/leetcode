@@ -26,3 +26,5 @@ https://leetcode-cn.com/problems/palindromic-substrings/
 ## 打卡
 
 - CrazyLiuxp
+- Richeir
+- Sky-shang
