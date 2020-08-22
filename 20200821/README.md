@@ -29,3 +29,4 @@ https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
 - Murph
 - CrazyLiuxp
 - Sky-shang
+- Richeir
