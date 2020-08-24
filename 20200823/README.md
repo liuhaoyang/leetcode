@@ -18,3 +18,4 @@ https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/
 
 ## 打卡
 - Richeir
+- Sky-shang
