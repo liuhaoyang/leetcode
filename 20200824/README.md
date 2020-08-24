@@ -39,3 +39,4 @@ https://leetcode-cn.com/problems/repeated-substring-pattern/
 
 - Zhuangkh
 - CrazyLiuxp
+- 明洋
