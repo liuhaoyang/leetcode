@@ -41,3 +41,4 @@ https://leetcode-cn.com/problems/repeated-substring-pattern/
 - CrazyLiuxp
 - Sky-sahng
 - Murph
+- Richeir
