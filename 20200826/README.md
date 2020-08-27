@@ -22,6 +22,6 @@ https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
 
 ## 打卡
 
-- Sky-sahng
+- Sky-shang
 - Murph
 
