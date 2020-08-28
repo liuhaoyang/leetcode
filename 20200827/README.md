@@ -2,6 +2,7 @@
 https://leetcode-cn.com/problems/reconstruct-itinerary/
 
 #### 题目描述
+
 给定一个机票的字符串二维数组 `[from, to]`，子数组中的两个成员分别表示飞机出发和降落的机场地点，对该行程进行重新规划排序。所有这些机票都属于一个从 JFK（肯尼迪国际机场）出发的先生，所以该行程必须从 JFK 开始。
 
 **说明:**
@@ -9,14 +10,14 @@ https://leetcode-cn.com/problems/reconstruct-itinerary/
     2. 所有的机场都用三个大写字母表示（机场代码）。
     3. 假定所有机票至少存在一种合理的行程。
 
-**实例1:**
+**示例 1:**
 
 ```
 输入: [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
 输出: ["JFK", "MUC", "LHR", "SFO", "SJC"]
 ```
 
-**实例2:**
+**示例 2:**
 
 ```
 输入: [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]]
